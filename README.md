@@ -19,3 +19,6 @@ Este proyecto es una aplicación básica para crear y gestionar listas de compra
 1. Cloná este repositorio:
 ```bash
 git clone https://github.com/tu-usuario/lista-de-compras.git
+
+## Comentarios
+- Cambios en el branch
